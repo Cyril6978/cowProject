@@ -7,4 +7,4 @@ console.log(cowsay.say({
     e : "oO",
     T : "U "
 }));
-// or cowsay.think()
+
